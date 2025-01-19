@@ -1,1 +1,15 @@
 # API_INTEGRATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : PARI KOTESWARA RAO
+
+**INTERN ID** : CT6WKCQ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : JANUARY 5th,2024 to FEBRUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/1d7dc82b-e5a0-45cd-9e5f-ad6add85b1e7)
